@@ -1,4 +1,4 @@
-# 🔧 TechDeal Finder
+# Tech Scrapper
 
 A PyQt6 desktop app that scrapes used tech listings from **OLX.pt**, **CustoJusto.pt**, **eBay.pt**, **BackMarket.pt**, and **Facebook Marketplace**, scores them automatically, and surfaces the best deals near Porto / Aveiro.
 
@@ -7,13 +7,10 @@ A PyQt6 desktop app that scrapes used tech listings from **OLX.pt**, **CustoJust
 ## Quick Start
 
 ```bash
-# 1. Clone / unzip the project, then cd into it
-cd tech_deal_finder
-
-# 2. Run the setup script  (installs deps + Playwright browser)
+# Run the setup script  (installs deps + Playwright browser)
 bash setup.sh
 
-# 3. Launch
+# Launch
 python main.py
 ```
 
